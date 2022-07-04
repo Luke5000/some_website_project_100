@@ -1,0 +1,97 @@
+
+
+.header{
+    background-color : black;
+    width : 100% ;
+    height :150px ;
+    color : white ;
+}
+
+
+.header span{
+    padding-right:3cm;
+ 
+}
+
+
+.rectangleRougeSurLimage{
+    width: 11cm;
+    height: 6cm;
+    background-color: red;
+    opacity: 0.8;
+    color :white ;
+    position : relative ;
+    bottom: 500px ; 
+    left : 10px ;
+    padding-left:  20px ;
+    padding-top: 20px ;
+    
+}
+
+.content .glyphicon{
+    padding-right: 141px;
+    
+    font-size: 50px;
+    
+}
+
+.flex-container-1{
+    display : flex ;
+}
+
+.flex-container-1 div{
+    padding-right:180px ;
+}
+
+.flex-container-2{
+    display: flex;
+}
+
+
+.flex-container-2 > div{
+    margin-right: 300px;
+}
+
+.search-course{
+    width:200px;
+    height: 100px;
+    background-color: grey;
+}
+
+td{
+    width: 8cm;
+}
+
+.footer{
+    width:100%;
+    height:550px;
+    background-color: black;
+}
+
+.footer h4{
+    color:white;
+}
+
+.footer span{
+    color:grey ;
+}
+
+.flex-container-3{
+    display:flex;
+}
+
+
+
+.flex-container-3 div{
+    padding-right : 230px;
+}
+
+.flex-container-4{
+    display:flex;
+}
+
+.flex-container-4 div{
+    padding-right : 230px;
+}
+
+
